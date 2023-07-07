@@ -1,0 +1,1 @@
+const s="/assets/product-mainimage-39e071fc.png",a="/assets/product-page-image1-e066186b.png",t="/assets/product-page-image2-ff7fcb36.png",p="/assets/product-page-image3-b9f23154.png";export{s as _,a,t as b,p as c};
